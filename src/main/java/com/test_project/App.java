@@ -7,7 +7,7 @@ public class App {
     public static void main(String[] args) {
         // Create frame
         JFrame frame = new JFrame("Test GUI");
-        frame.setSize(300, 320);
+        frame.setSize(600, 320);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setLayout(null);
 
